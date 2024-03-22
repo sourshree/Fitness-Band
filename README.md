@@ -1,7 +1,7 @@
 # Fitness-Band
 Embedded Systems Development:
 
-# Developed firmware for ESP8266 microcontroller board using Arduino IDE for embedded systems programming.
+*Developed firmware for ESP8266 microcontroller board using Arduino IDE for embedded systems programming.*
 
 # IoT (Internet of Things):
 Implemented IoT functionality to connect the ESP8266 device with the Blynk platform for remote monitoring and control of sensor data.
